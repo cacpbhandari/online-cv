@@ -7,15 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Chandani Bhandari
+    tagline: Data Analyst|Chartered Accountant|Internal Auditor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    email: cacpbhandari@gmail.com
+    phone: +91-9867532840
+    citizenship: Indian
     linkedin: alandoe
     xing: alandoe
     github: sharu725
@@ -39,10 +38,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Yoga
         link:
 
-      - item: Snowboarding
+      - item: Badminton
         link:
 
       - item: Cooking
